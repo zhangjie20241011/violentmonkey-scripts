@@ -30,7 +30,8 @@
 
             // 构建VIP解析链接
             const currentUrl = window.location.href;
-            const vipParseUrl = `https://jx.nnxv.cn/tv.php?url=${encodeURIComponent(currentUrl)}`;
+            const vipParseUrl = `https://jx.jiexi.icu/?url=${encodeURIComponent(currentUrl)}`;
+            //const vipParseUrl = `https://jx.nnxv.cn/tv.php?url=${encodeURIComponent(currentUrl)}`;
 
             // 跳转到VIP解析页面
             window.location.href = vipParseUrl;
@@ -45,3 +46,4 @@
     }, 1000); // 每1秒检测一次
 
 })();
+
