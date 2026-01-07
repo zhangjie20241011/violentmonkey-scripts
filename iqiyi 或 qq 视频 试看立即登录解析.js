@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         iqiyi 或 qq 视频 试看/立即登录解析
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.1.1
 // @description  在iqiyi或qq视频页面上检测到"试看"或"立即登录"字样后自动解析播放
 // @author       You
 // @match        https://www.iqiyi.com/*
@@ -46,5 +46,6 @@
     }, 1000); // 每1秒检测一次
 
 })();
+
 
 
