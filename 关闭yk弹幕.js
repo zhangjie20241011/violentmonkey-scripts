@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         优酷视频自动关闭弹幕
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.0.1
 // @description  在优酷 v.youku.com 播放页面自动关闭弹幕（网页版）
 // @author       Grok
 // @match        https://v.youku.com/v_show/*
