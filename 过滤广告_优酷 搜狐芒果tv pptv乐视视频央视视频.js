@@ -46,8 +46,8 @@
 // @grant             GM.xmlHttpRequest
 // @grant             GM_registerMenuCommand
 // @namespace
-// @downloadURL https://update.greasyfork.org/scripts/415875/%E8%87%AA%E5%8A%A8%E8%B7%B3%E8%BF%87%E8%A7%86%E9%A2%91%E5%B9%BF%E5%91%8A.user.js
-// @updateURL https://update.greasyfork.org/scripts/415875/%E8%87%AA%E5%8A%A8%E8%B7%B3%E8%BF%87%E8%A7%86%E9%A2%91%E5%B9%BF%E5%91%8A.meta.js
+// @downloadURL https://raw.githubusercontent.com/zhangjie20241011/violentmonkey-scripts/refs/heads/main/%E8%BF%87%E6%BB%A4%E5%B9%BF%E5%91%8A_%E4%BC%98%E9%85%B7%20%E6%90%9C%E7%8B%90%E8%8A%92%E6%9E%9Ctv%20pptv%E4%B9%90%E8%A7%86%E8%A7%86%E9%A2%91%E5%A4%AE%E8%A7%86%E8%A7%86%E9%A2%91.js
+// @updateURL https://raw.githubusercontent.com/zhangjie20241011/violentmonkey-scripts/refs/heads/main/%E8%BF%87%E6%BB%A4%E5%B9%BF%E5%91%8A_%E4%BC%98%E9%85%B7%20%E6%90%9C%E7%8B%90%E8%8A%92%E6%9E%9Ctv%20pptv%E4%B9%90%E8%A7%86%E8%A7%86%E9%A2%91%E5%A4%AE%E8%A7%86%E8%A7%86%E9%A2%91.meta.js
 // ==/UserScript==
 
 (function () {
@@ -141,3 +141,4 @@
     }
 
 })();
+
