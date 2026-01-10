@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name              自动跳过视频广告
+// @name              自动跳过优搜芒pp乐央视频广告
 // @namespace
 // @version           1.2.1
 // @description       自用脚本, 自动跳过视频广告, 支持优酷, 搜狐, 芒果tv, pptv,乐视, 央视
