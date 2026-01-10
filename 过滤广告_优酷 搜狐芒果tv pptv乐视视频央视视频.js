@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name              自动跳过视频广告
+// @name              自动跳过视频广告260110
 // @namespace
 // @version           1.2.1
 // @description       自用脚本, 自动跳过视频广告, 当前优酷, 搜狐, 芒果tv, pptv,乐视视频, 央视视频
@@ -45,7 +45,7 @@
 // @grant             GM_xmlhttpRequest
 // @grant             GM.xmlHttpRequest
 // @grant             GM_registerMenuCommand
-// @namespace 
+// @namespace
 // @downloadURL https://update.greasyfork.org/scripts/415875/%E8%87%AA%E5%8A%A8%E8%B7%B3%E8%BF%87%E8%A7%86%E9%A2%91%E5%B9%BF%E5%91%8A.user.js
 // @updateURL https://update.greasyfork.org/scripts/415875/%E8%87%AA%E5%8A%A8%E8%B7%B3%E8%BF%87%E8%A7%86%E9%A2%91%E5%B9%BF%E5%91%8A.meta.js
 // ==/UserScript==
