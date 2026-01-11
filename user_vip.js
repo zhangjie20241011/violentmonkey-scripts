@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name              全网VIP视频免费破解去广告【2026年】
 // @namespace         http://tampermonkey.net/
-// @version           2.0.9
+// @version           2.0.10
 // @description       【全网VIP视频免费破解去广告，适配PC+移动】，全网VIP视频解析：爱奇艺、腾讯、优酷、bilibili等视频免费解析！🔥真4K高清🔥【脚本长期维护更新，完全免费，无广告，仅限学习交流！！】
 // @icon              https://nuaa.tech/zz.svg
 // @author            https://pro.gleeze.com/article/46
@@ -15,9 +15,9 @@
 // @include           *://*.youku.com/v_*
 // @include           *://*.youku.com/video*
 // @include           *://*.youku.com/*?vid=*
-// @include           *://*.mgtv.com/b/*
+// @include           *://*.mgtv.com/*
 // @include           *://*.tudou.com/v_*
-// @include           *://tv.sohu.com/v/*
+// @include           *://*.sohu.com/v/*
 // @include           *://*.bilibili.com/video/*
 // @include           *://*.bilibili.com/bangumi/play/*
 // @include           *://v.pptv.com/show/*
