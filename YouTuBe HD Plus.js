@@ -43,8 +43,8 @@
 // @compatible         opera
 // @compatible         edge
 // @license            GNU GPLv3
-// @downloadURL https://update.greasyfork.org/scripts/508784/YouTube%20HD%20Plus.user.js
-// @updateURL https://update.greasyfork.org/scripts/508784/YouTube%20HD%20Plus.meta.js
+// @downloadURL https://ghfast.top/https://raw.githubusercontent.com/zhangjie20241011/violentmonkey-scripts/refs/heads/main/YouTuBe%20HD%20Plus.js
+// @updateURL https://ghfast.top/https://raw.githubusercontent.com/zhangjie20241011/violentmonkey-scripts/refs/heads/main/YouTuBe%20HD%20Plus.meta.js
 // ==/UserScript==
 
 // Icons provided by https://uxwing.com/
@@ -935,3 +935,4 @@
         });
     })();
 })();
+
