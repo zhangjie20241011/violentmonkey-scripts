@@ -50,8 +50,8 @@
 // @grant             GM_xmlhttpRequest
 // @charset		      UTF-8
 // @license           GPL License
-// @downloadURL https://raw.githubusercontent.com/zhangjie20241011/violentmonkey-scripts/refs/heads/main/user_vip.js
-// @updateURL https://raw.githubusercontent.com/zhangjie20241011/violentmonkey-scripts/refs/heads/main/user_vip.meta.js
+// @downloadURL https://gh-proxy.com/https://raw.githubusercontent.com/zhangjie20241011/violentmonkey-scripts/refs/heads/main/user_vip.js
+// @updateURL https://gh-proxy.com/https://raw.githubusercontent.com/zhangjie20241011/violentmonkey-scripts/refs/heads/main/user_vip.meta.js
 // ==/UserScript==
 
 const util = (function () {
