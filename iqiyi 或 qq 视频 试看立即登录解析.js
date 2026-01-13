@@ -8,8 +8,8 @@
 // @match        https://v.qq.com/*
 // @match        https://v.youku.com/*
 // @grant        none
-// @downloadURL https://gh-proxy.com/https://raw.githubusercontent.com/zhangjie20241011/violentmonkey-scripts/refs/heads/main/user_vip.js
-// @updateURL https://gh-proxy.com/https://raw.githubusercontent.com/zhangjie20241011/violentmonkey-scripts/refs/heads/main/user_vip.meta.js
+// @downloadURL https://gh-proxy.com/https://raw.githubusercontent.com/zhangjie20241011/violentmonkey-scripts/refs/heads/main/iqiyi%20%E6%88%96%20qq%20%E8%A7%86%E9%A2%91%20%E8%AF%95%E7%9C%8B%E7%AB%8B%E5%8D%B3%E7%99%BB%E5%BD%95%E8%A7%A3%E6%9E%90.js
+// @updateURL https://raw.githubusercontent.com/zhangjie20241011/violentmonkey-scripts/refs/heads/main/iqiyi%20%E6%88%96%20qq%20%E8%A7%86%E9%A2%91%20%E8%AF%95%E7%9C%8B%E7%AB%8B%E5%8D%B3%E7%99%BB%E5%BD%95%E8%A7%A3%E6%9E%90.meta.js
 // ==/UserScript==
 
 (function() {
@@ -48,6 +48,7 @@
     }, 1000); // 每1秒检测一次
 
 })();
+
 
 
 
