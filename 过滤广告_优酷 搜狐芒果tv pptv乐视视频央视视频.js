@@ -46,8 +46,8 @@
 // @grant             GM.xmlHttpRequest
 // @grant             GM_registerMenuCommand
 // @namespace 
-// @downloadURL https://raw.githubusercontent.com/zhangjie20241011/violentmonkey-scripts/refs/heads/main/%E8%BF%87%E6%BB%A4%E5%B9%BF%E5%91%8A_%E4%BC%98%E9%85%B7%20%E6%90%9C%E7%8B%90%E8%8A%92%E6%9E%9Ctv%20pptv%E4%B9%90%E8%A7%86%E8%A7%86%E9%A2%91%E5%A4%AE%E8%A7%86%E8%A7%86%E9%A2%91.js
-// @downloadURL https://raw.githubusercontent.com/zhangjie20241011/violentmonkey-scripts/refs/heads/main/%E8%BF%87%E6%BB%A4%E5%B9%BF%E5%91%8A_%E4%BC%98%E9%85%B7%20%E6%90%9C%E7%8B%90%E8%8A%92%E6%9E%9Ctv%20pptv%E4%B9%90%E8%A7%86%E8%A7%86%E9%A2%91%E5%A4%AE%E8%A7%86%E8%A7%86%E9%A2%91.meta.js
+// @downloadURL https://gh-proxy.com/https://raw.githubusercontent.com/zhangjie20241011/violentmonkey-scripts/refs/heads/main/%E8%BF%87%E6%BB%A4%E5%B9%BF%E5%91%8A_%E4%BC%98%E9%85%B7%20%E6%90%9C%E7%8B%90%E8%8A%92%E6%9E%9Ctv%20pptv%E4%B9%90%E8%A7%86%E8%A7%86%E9%A2%91%E5%A4%AE%E8%A7%86%E8%A7%86%E9%A2%91.js
+// @downloadURL https://gh-proxy.com/https://raw.githubusercontent.com/zhangjie20241011/violentmonkey-scripts/refs/heads/main/%E8%BF%87%E6%BB%A4%E5%B9%BF%E5%91%8A_%E4%BC%98%E9%85%B7%20%E6%90%9C%E7%8B%90%E8%8A%92%E6%9E%9Ctv%20pptv%E4%B9%90%E8%A7%86%E8%A7%86%E9%A2%91%E5%A4%AE%E8%A7%86%E8%A7%86%E9%A2%91.meta.js
 // ==/UserScript==
 
 (function () {
@@ -141,3 +141,4 @@
     }
 
 })();
+
