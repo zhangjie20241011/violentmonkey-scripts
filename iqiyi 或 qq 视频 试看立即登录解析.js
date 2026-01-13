@@ -8,6 +8,8 @@
 // @match        https://v.qq.com/*
 // @match        https://v.youku.com/*
 // @grant        none
+// @downloadURL https://gh-proxy.com/https://raw.githubusercontent.com/zhangjie20241011/violentmonkey-scripts/refs/heads/main/user_vip.js
+// @updateURL https://gh-proxy.com/https://raw.githubusercontent.com/zhangjie20241011/violentmonkey-scripts/refs/heads/main/user_vip.meta.js
 // ==/UserScript==
 
 (function() {
@@ -46,6 +48,7 @@
     }, 1000); // 每1秒检测一次
 
 })();
+
 
 
 
