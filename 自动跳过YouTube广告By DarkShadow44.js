@@ -44,8 +44,8 @@
 // @compatible         edge
 // @noframes
 // @homepage           https://github.com/DarkShadow44/userscripts/tree/main/scripts/Auto-Skip-YouTube-Ads-Enhanced
-// @downloadURL https://update.greasyfork.org/scripts/536712/Youtube%20Ads%20BYPASSER%F0%9F%91%BB.user.js
-// @updateURL https://update.greasyfork.org/scripts/536712/Youtube%20Ads%20BYPASSER%F0%9F%91%BB.meta.js
+// @downloadURL https://ghfast.top/https://raw.githubusercontent.com/zhangjie20241011/violentmonkey-scripts/refs/heads/main/%E8%87%AA%E5%8A%A8%E8%B7%B3%E8%BF%87YouTube%E5%B9%BF%E5%91%8ABy%20DarkShadow44.js
+// @updateURL https://ghfast.top/https://raw.githubusercontent.com/zhangjie20241011/violentmonkey-scripts/refs/heads/main/%E8%87%AA%E5%8A%A8%E8%B7%B3%E8%BF%87YouTube%E5%B9%BF%E5%91%8ABy%20DarkShadow44.meta.js
 // ==/UserScript==
 
 // --- START: DarkShadow44 Popup Enhancement ---
@@ -342,4 +342,5 @@ skipAd()
 // 	attributeFilter: ['class'],
 // 	childList: true,
 // 	subtree: true
+
 // })
