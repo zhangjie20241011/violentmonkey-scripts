@@ -44,7 +44,8 @@
 
     const STORAGE_KEY = 'YTHD_settings';
     const DEFAULT_SETTINGS = {
-        targetResolution: 'hd1080',
+//        targetResolution: 'hd1080',
+         targetResolution: '720p',
     };
 
     const SVG_NS = 'http://www.w3.org/2000/svg';
@@ -395,3 +396,4 @@
 
     initialize();
 })();
+
